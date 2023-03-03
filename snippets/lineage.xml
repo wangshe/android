@@ -156,8 +156,8 @@
   <project path="hardware/qcom-caf/vr" name="LineageOS/android_hardware_qcom_vr" groups="qcom,pdk-qcom" />
   <project path="hardware/qcom-caf/wlan" name="LineageOS/android_hardware_qcom_wlan" groups="qcom_wlan,pdk-qcom" revision="lineage-18.1-caf" />
   <project path="system/tools/dtbtool" name="LineageOS/android_system_tools_dtbtool" />
-  <project path="vendor/xiaomi/lmi" name="xiaomi-sm8250-devs/proprietary_vendor_xiaomi_lmi" revision="lineage-18.1" />
-  <project path="vendor/xiaomi/sm8250-common" name="xiaomi-sm8250-devs/proprietary_vendor_xiaomi_sm8250-common" revision="lineage-18.1" />
+  <project path="vendor/xiaomi/lmi" name="TheBootloops/vendor_xiaomi_lmi" revision="eleven" />
+  <project path="vendor/xiaomi/sm8250-common" name="TheBootloops/vendor_xiaomi_sm8250-common" revision="eleven" />
   <project path="vendor/xiaomi/clover" name="kyasu/android_vendor_xiaomi_clover" revision="lineage-18.1" />
   <project path="vendor/xiaomi/sdm660-common" name="kyasu/android_vendor_xiaomi_sdm660-common" revision="lineage-18.1" />
   <project path="vendor/xiaomi/gauguin" name="DtHnAme/vendor_xiaomi_gauguin" revision="11.0" />
